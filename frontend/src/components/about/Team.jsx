@@ -1,0 +1,46 @@
+import React from "react";
+
+function Team() {
+  return (
+    <div className="container">
+
+      <div className="row p-3 mt-5 border-top">
+        <h1 className="text-center">People</h1>
+      </div>
+
+      <div className="row p-3 text-muted align-items-center" style={{ lineHeight: "1.8", fontSize: "1.2em" }} >
+        <div className="col-12 col-md-6 p-3 text-center mb-4 mb-md-0">
+          <img
+            src="media/images/nithinKamath.jpg"
+            alt="Nithin Kamath"
+            className="img-fluid"
+            style={{ borderRadius: "50%", width: "50%" }}
+          />
+          <h4 className="mt-4">Nithin Kamath</h4>
+          <h6>Founder, CEO</h6>
+        </div>
+
+        <div className="col-12 col-md-6 p-3">
+          <p style={{ textAlign: "justify" }}>
+            Nithin bootstrapped and founded Zerodha in 2010 to overcome the
+            hurdles he faced during his decade-long stint as a trader. Today,
+            Zerodha has changed the landscape of the Indian broking industry.
+          </p>
+          <p style={{ textAlign: "justify" }}>
+            He is a member of the SEBI Secondary Market Advisory Committee
+            (SMAC) and the Market Data Advisory Committee (MDAC).
+          </p>
+          <p style={{ textAlign: "justify" }}>Playing basketball is his zen.</p>
+          <p style={{ textAlign: "justify" }}>
+            Connect on{" "}
+            <a href="#" style={{ textDecoration: "none" }}>Homepage</a> /{" "}
+            <a href="#" style={{ textDecoration: "none" }}>TradingQnA</a> /{" "}
+            <a href="#" style={{ textDecoration: "none" }}>Twitter</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Team;
