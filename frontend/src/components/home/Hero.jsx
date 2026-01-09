@@ -6,7 +6,7 @@ function Home() {
             <div className="container p-3 p-md-5">
                 <div className="row text-center">
                     <img 
-                        src="media/images/homeHero.png" 
+                        src="/media/images/homeHero.png" 
                         className="img-fluid mb-4 mb-md-5"
                         alt="Home Hero"
                     />

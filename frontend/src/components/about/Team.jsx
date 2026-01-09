@@ -11,7 +11,7 @@ function Team() {
       <div className="row p-3 text-muted align-items-center" style={{ lineHeight: "1.8", fontSize: "1.2em" }} >
         <div className="col-12 col-md-6 p-3 text-center mb-4 mb-md-0">
           <img
-            src="media/images/nithinKamath.jpg"
+            src="/media/images/nithinKamath.jpg"
             alt="Nithin Kamath"
             className="img-fluid"
             style={{ borderRadius: "50%", width: "50%" }}

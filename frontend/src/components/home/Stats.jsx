@@ -37,7 +37,7 @@ function Stats() {
 
                     <div className="col-12 col-md-6 p-3 p-md-5 text-center">
                         <img
-                            src="media/images/ecosystem.png"
+                            src="/media/images/ecosystem.png"
                             alt="Zerodha Ecosystem"
                             className="img-fluid mb-4"
                             style={{ maxWidth: "90%" }}

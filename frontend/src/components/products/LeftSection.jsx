@@ -38,14 +38,14 @@ function LeftSection({
                 <div className="d-flex flex-wrap gap-3 mt-4">
                     <a href={googlePlay}>
                         <img
-                            src="media/images/googlePlayBadge.svg"
+                            src="/media/images/googlePlayBadge.svg"
                             alt="Google Play"
                             height="40"
                         />
                     </a>
                     <a href={appStore}>
                         <img
-                            src="media/images/appstoreBadge.svg"
+                            src="/media/images/appstoreBadge.svg"
                             alt="App Store"
                             height="40"
                         />

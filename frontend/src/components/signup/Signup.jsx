@@ -15,7 +15,7 @@ function Signup() {
       <div className="row mt-5 mb-5">
         <div className="col-md-6 mb-4">
           <img
-            src="media/images/signup.png"
+            src="/media/images/signup.png"
             alt="Signup"
             className="img-fluid"
             style={{ maxWidth: "85%" }}
@@ -30,7 +30,7 @@ function Signup() {
             <div className="mb-3 col-md-8">
               <div className="d-flex align-items-center phone-input">
                 <img
-                  src="media/images/india-flag.svg"
+                  src="/media/images/india-flag.svg"
                   alt="India"
                   className="ms-2"
                   style={{ width: "24px" }}

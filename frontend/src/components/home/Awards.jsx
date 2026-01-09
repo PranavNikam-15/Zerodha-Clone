@@ -7,7 +7,7 @@ function Awards() {
                 <div className="row">
 
                     <div className="col-12 col-md-6 p-3 p-md-5 text-center">
-                        <img src="media/images/largestBroker.svg" alt="Largest Broker" className="img-fluid" />
+                        <img src="/media/images/largestBroker.svg" alt="Largest Broker" className="img-fluid" />
                     </div>
 
                     <div className="col-12 col-md-6 p-3 p-md-5 mt-3 mt-md-0">
@@ -33,7 +33,7 @@ function Awards() {
                             </div>
                         </div>
 
-                        <img src="media/images/pressLogos.png" alt="Press Logos" className="img-fluid mt-3" />
+                        <img src="/media/images/pressLogos.png" alt="Press Logos" className="img-fluid mt-3" />
                     </div>
                 </div>
             </div>

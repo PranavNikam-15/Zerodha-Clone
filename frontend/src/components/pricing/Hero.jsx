@@ -13,7 +13,7 @@ function Hero() {
         <div className="row py-4 py-md-5 text-center">
             <div className="col-12 col-md-4 p-3">
                 <img
-                    src="media/images/pricingEquity.svg"
+                    src="/media/images/pricingEquity.svg"
                     alt="Free equity delivery"
                     className="img-fluid mb-3"
                     style={{ maxWidth: "180px" }}
@@ -25,7 +25,7 @@ function Hero() {
             </div>
             <div className="col-12 col-md-4 p-3">
                 <img
-                    src="media/images/intradayTrades.svg"
+                    src="/media/images/intradayTrades.svg"
                     alt="Intraday trades"
                     className="img-fluid mb-3"
                     style={{ maxWidth: "180px" }}
@@ -38,7 +38,7 @@ function Hero() {
             </div>
             <div className="col-12 col-md-4 p-3">
                 <img
-                    src="media/images/pricingEquity.svg"
+                    src="/media/images/pricingEquity.svg"
                     alt="Free direct MF"
                     className="img-fluid mb-3"
                     style={{ maxWidth: "180px" }}
