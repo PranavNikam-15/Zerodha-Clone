@@ -20,10 +20,10 @@
 ## Visuals :
 
 <p float="center">
-  <img src="screenshots/img-1.png" width="550" style="margin-right:10px;" />
-  <img src="screenshots/img-2.png" width="550" style="margin-right:10px;" />
-  <img src="screenshots/img-3.png" width="550" style="margin-right:10px;" />
-  <img src="screenshots/img-4.png" width="550" />
+  <img src="screenshots/img-1.png" />
+  <img src="screenshots/img-2.png" />
+  <img src="screenshots/img-3.png" />
+  <img src="screenshots/img-4.png" />
 </p>
 
 ---
